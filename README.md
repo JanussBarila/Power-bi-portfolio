@@ -26,7 +26,7 @@ This project was completed as a **Power BI technical test assignment**. The goal
 
 ## 📊 Dashboard Preview
 
-*Add a screenshot of your dashboard here if you have one.*
+<img width="731" height="408" alt="image" src="https://github.com/user-attachments/assets/45f91786-8ea8-489c-b27b-d48bf6d45a01" />
 
 ---
 
@@ -70,8 +70,6 @@ This project was completed as a **Power BI technical test assignment**. The goal
 - **Delayed billing** is low overall (**~0.5%**), but increased to **~1.0%** in 2015.
 - Revenue is concentrated in a small number of products and channels – I added drill‑down filters to explore this further.
 
-
-<img width="731" height="408" alt="image" src="https://github.com/user-attachments/assets/45f91786-8ea8-489c-b27b-d48bf6d45a01" />
 
 <img width="562" height="397" alt="image" src="https://github.com/user-attachments/assets/13af45fb-356b-4d02-b3eb-e8f6e1fb16e0" />
 
