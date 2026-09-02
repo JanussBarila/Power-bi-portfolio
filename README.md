@@ -19,6 +19,9 @@ This project was completed as a **Power BI technical test assignment**. The goal
 - Kept **negative amounts** – they represent adjustments, credits, or corrections.
 - Created a unified reporting currency: `Amount_EUR = net_amount_currency × curr_rate`.
 - Created `BillingDate` and `ServiceDate` using the **first day of each month** (since the source only provided year and month).
+  
+<img width="561" height="343" alt="image" src="https://github.com/user-attachments/assets/acfec419-8463-44ee-930c-8cd5ce18d8e4" />
+
 
 ### 2. Data Modelling
 - Designed a **star schema** with `FactInvoiceDetails` at the centre and separate dimension tables for:
@@ -36,6 +39,9 @@ This project was completed as a **Power BI technical test assignment**. The goal
 - All relationships are **one‑to‑many** with **single‑direction filtering**.
 - Created a dedicated **`_Measures` table** to keep DAX logic organised.
 
+<img width="560" height="397" alt="image" src="https://github.com/user-attachments/assets/fe84498d-1359-4f21-98ba-aba321e7e11b" />
+
+
 ### 3. Key Findings
 - **Total revenue: ~€9.44M** across **32,141 transaction lines** and **69 invoices**.
 - **2014** was the strongest full year at **~€3.45M** – 2015 was **~5.3% lower**.
@@ -43,6 +49,11 @@ This project was completed as a **Power BI technical test assignment**. The goal
 - **Negative adjustments** total **~€101.7K** – kept in the model as part of financial activity.
 - **Delayed billing** is low overall (**~0.5%**), but increased to **~1.0%** in 2015.
 - Revenue is concentrated in a small number of products and channels – I added drill‑down filters to explore this further.
+
+
+<img width="731" height="408" alt="image" src="https://github.com/user-attachments/assets/45f91786-8ea8-489c-b27b-d48bf6d45a01" />
+
+<img width="562" height="397" alt="image" src="https://github.com/user-attachments/assets/13af45fb-356b-4d02-b3eb-e8f6e1fb16e0" />
 
 ---
 
