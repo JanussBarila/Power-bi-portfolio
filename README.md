@@ -122,4 +122,7 @@ P.S. Everyday template:
 
 <img width="358" height="362" alt="image" src="https://github.com/user-attachments/assets/340ba7cf-d09f-4697-ade1-a88bda6c4387" />
 
+<img width="733" height="429" alt="image" src="https://github.com/user-attachments/assets/ad5ce99a-d2cd-4890-8141-d35112b48f38" />
+
+
 
