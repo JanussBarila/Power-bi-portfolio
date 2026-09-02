@@ -1,3 +1,23 @@
+# Power BI Portfolio – Januss Barila
+
+**Business Intelligence | Data Visualisation | Dashboard Design**
+
+---
+
+## ⚠️ Important Note on Data Privacy
+
+Most of my Power BI work involves **sensitive business data** – including HR metrics, financial performance, workforce analytics, and company turnover information. Due to **GDPR and data confidentiality obligations**, I cannot share full dashboards or real datasets.
+
+Instead, this portfolio contains:
+- **Templates (.pbit)** – report structures, measures, and data models (no actual data)
+- **Sample visualisations** – cropped or anonymised screenshots
+- **Project descriptions** – explaining the business problem, approach, and outcomes
+
+This approach allows you to see my **design thinking, DAX logic, and modelling approach** while fully respecting data privacy.
+
+---
+
+
 # Power BI Test Assignment – Data Analyst Submission
 
 This project was completed as a **Power BI technical test assignment**. The goal was to import, clean, model, and visualise a fictitious transactional dataset, and present key business findings in a clear, interactive dashboard.
@@ -98,3 +118,10 @@ I'm **Januss Barila** – a Business & Data Analyst with 6+ years of experience 
 ## 📜 License
 
 MIT – feel free to use and adapt.
+
+
+P.S. Everyday template:
+
+<img width="358" height="362" alt="image" src="https://github.com/user-attachments/assets/340ba7cf-d09f-4697-ade1-a88bda6c4387" />
+
+
