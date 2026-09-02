@@ -24,7 +24,7 @@ This project was completed as a **Power BI technical test assignment**. The goal
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Preview - * The dataset provided for this assignment has been created solely for assessment purposes. The data is fictitious and does not represent actual business operations.
 
 <img width="731" height="408" alt="image" src="https://github.com/user-attachments/assets/45f91786-8ea8-489c-b27b-d48bf6d45a01" />
 
